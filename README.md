@@ -66,6 +66,10 @@ https://arxiv.org/abs/1704.04664
 Sample video:
 https://youtu.be/z73iqwKL-Qk
 
+---
+Authors: Yuki Katsumata, Yoshiki Tabuchi, Yuki Matsumoto and Akira Taniguchi  
+
 2018/01/15  Akira Taniguchi  
 2018/04/24  Akira Taniguchi (update)  
 2018/11/25  Akira Taniguchi (update)  
+
